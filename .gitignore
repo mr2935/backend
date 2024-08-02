@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+
+# IDE-specific files
+.idea/
+.vscode/
+
+
+
+# Optional npm cache directory
+.npm
+
+# Coverage directory used by tools like istanbul
+coverage/
